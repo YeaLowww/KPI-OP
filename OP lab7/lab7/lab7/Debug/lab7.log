@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Саша Головня\Desktop\Оп\OP lab7\lab7\lab7\Source.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Саша Головня\Desktop\Оп\OP lab7\lab7\lab7\Source.cpp(42,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab7.vcxproj -> C:\Users\Саша Головня\Desktop\Оп\OP lab7\lab7\Debug\lab7.exe
